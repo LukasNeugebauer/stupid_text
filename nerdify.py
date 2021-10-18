@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """
 Replace some letter with symbols and numbers
-also:
-    fuck you alina
 """
 
 import sys
